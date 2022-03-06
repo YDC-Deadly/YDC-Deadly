@@ -7,9 +7,6 @@ Languages and Tools:
 Microsoft Visual Studio 2022
 C++ 
 
-Stats:
-YDC-Deadly's GitHub stats
-
 <!--
 **YDC-Deadly/YDC-Deadly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
