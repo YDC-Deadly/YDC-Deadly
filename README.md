@@ -12,7 +12,7 @@ C++
 [![Youtube]()](https://www.youtube.com/channel/UCkIaXJkuRGKSEYnlEvxKMiw)
 
 
-[![Join Discord](https://img.shields.io/discord/503336354546057218?color=7289DA&label=discord&logo=discord&logoColor=7289DA&style=for-the-badge)](https://discord.com/invite/hCb3Y2xd3k)
+[![Join Discord](https://img.shields.io/discord/503336354546057218?color=7289DA&label=discord&logo=discord&logoColor=7289DA&style=for-the-badge)](https://discord.gg/SHc4zkvCPv)
 
 # GitHub Stats
 
