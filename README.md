@@ -8,6 +8,14 @@ NG Client | A currently C++ internal Minecraft Windows Edition Hacked Client | h
 Microsoft Visual Studio 2022
 C++ 
 
+# Social
+
+[![Join Discord](https://img.shields.io/discord/503336354546057218?color=7289DA&label=discord&logo=discord&logoColor=7289DA&style=for-the-badge)](https://discord.com/invite/hCb3Y2xd3k)
+
+# GitHub Stats
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=richardletshacks&show_icons=true&hide_title=true)](https://github.com/YDC-Deadly)
+
 <!--
 **YDC-Deadly/YDC-Deadly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
