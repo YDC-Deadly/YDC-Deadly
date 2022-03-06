@@ -9,7 +9,7 @@ Microsoft Visual Studio 2022
 C++ 
 
 # Social
-[![Youtube]()](https://www.youtube.com/channel/UCkIaXJkuRGKSEYnlEvxKMiw)
+[![Youtube](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/channel/UCkIaXJkuRGKSEYnlEvxKMiw)
 
 
 [![Join Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.com/invite/hCb3Y2xd3k)
