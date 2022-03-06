@@ -1,9 +1,9 @@
 ### Hi there I'm Deadtros👋
 
-I code C++ Here is some stuff I'm working on:
+I code C++ Here is some something I'm working on:
 NG Client | A currently C++ internal Minecraft Windows Edition Hacked Client | https://github.com/YDC-Deadly/NG-injector/releases
 
-### Languages and Tools:
+### ⚡Languages and Tools:
 
 Microsoft Visual Studio 2022
 C++ 
