@@ -16,10 +16,8 @@ C++
 
 # GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=richardletshacks&show_icons=true&hide_title=true)](https://github.com/YDC-Deadly)
+[![Stats](https://github-readme-stats.vercel.app)](https://github.com/YDC-Deadly)
 
-
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/>
 <!--
 **YDC-Deadly/YDC-Deadly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
