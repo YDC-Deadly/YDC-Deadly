@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there I'm Deadtros👋
+
+I code C++ Here is some stuff I'm working on:
+NG Client | A currently C++ internal Minecraft Windows Edition Hacked Client | https://github.com/YDC-Deadly/NG-injector/releases
+
+Languages and Tools:
+Microsoft Visual Studio 2022
+C++ 
+
+Stats:
+YDC-Deadly's GitHub stats
 
 <!--
 **YDC-Deadly/YDC-Deadly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
