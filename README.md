@@ -14,14 +14,11 @@ NG Client | C++ internal Minecraft Windows Edition Hacked Client | https://githu
 
 # GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adi3120&show_icons=true&locale=en&layout=compact" alt="adi3120" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adi3120&show_icons=true&locale=en&layout=compact" alt="YDC-Deadly" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adi3120&show_icons=true&locale=en" alt="adi3120" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adi3120&show_icons=true&locale=en" alt="YDC-Deadly" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adi3120&" alt="adi3120" /></p>
-
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=richardletshacks&show_icons=true&hide_title=true)](https://github.com/YDC-Deadly)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adi3120&" alt="YDC-Deadly" /></p>
 
 <!--
 **YDC-Deadly/YDC-Deadly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
