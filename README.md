@@ -10,9 +10,9 @@ NG Client | C++ internal Minecraft Windows Edition Hacked Client | https://githu
 [![Youtube]()](https://www.youtube.com/channel/UCkIaXJkuRGKSEYnlEvxKMiw)
 
 
-[![Join Discord]()](https://discord.com/invite/hCb3Y2xd3k)
+[![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.com/invite/hCb3Y2xd3k)
 
 # GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YDC-Deadly&show_icons=true&locale=en&layout=compact" alt="(https://github.com/YDC-Deadly) /></p>
+
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=YDC-Deadly&show_icons=true&hide_title=true)](https://github.com/YDC-Deadly)
