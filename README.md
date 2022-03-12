@@ -6,7 +6,7 @@ NG Client | A currently C++ internal Minecraft Windows Edition Hacked Client | h
 ### ⚡Languages and Tools:
 
 Microsoft Visual Studio 2022
-C++ 
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a 
 
 # Social
 [![Youtube]()](https://www.youtube.com/channel/UCkIaXJkuRGKSEYnlEvxKMiw)
